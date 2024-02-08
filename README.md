@@ -1,4 +1,4 @@
-# Meson C++ template
+# C++ Meson build template
 This is a template for C++ projects using the Meson build system. It includes Gtest as an external dependency which is automatically downloaded 
 by Meson's WrapDB.  
 
