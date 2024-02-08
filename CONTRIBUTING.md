@@ -1,5 +1,3 @@
-# Introduction
-This is a hobby project. This is only intended for the maintainer of this repository at the time of writing.
 ### Code style
 This project uses Google's code style. Use clang-tidy to format. 
 ### Code comments
